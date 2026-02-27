@@ -1360,3 +1360,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.27-13.17.25:372][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.788572
 [2026.02.27-13.17.25:373][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
 [2026.02.27-13.17.25:373][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.788572, Update Interval: 330.819427
+[2026.02.27-13.17.48:609][272]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-13.18.07:816][410]LogStreaming: Display: FlushAsyncLoading(419): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-13.18.09:289][410]LogSlate: Window 'New Level' being destroyed
+[2026.02.27-13.18.09:303][410]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.27-13.18.09:328][410]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-13.18.09:338][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-13.18.09:338][410]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2026.02.27-13.18.09:352][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.27-13.18.09:381][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.27-13.18.09:402][410]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.02.27-13.18.09:402][410]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.02.27-13.18.09:411][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.27-13.18.09:420][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.27-13.18.09:420][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.27-13.18.09:420][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
