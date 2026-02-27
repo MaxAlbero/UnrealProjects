@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/sanchez.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/sanchez_Mat.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/BP_Coin.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/83/NIH8OJGA0AC0022QG4A8BH.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/7Q/HTWOENYWC0LGB7VL5HLP2P.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/IB/PQY0KHC937NEEU0V7KS2ES.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/30/U3NPBUQ06TWLNP5XS4UCBX.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SA/KHCNEZCCPJH30H7R6IAWLX.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DN/YOKS1B4MSLVSR894BPBAIS.uasset",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/MyTestingLevel.umap",
+				"C:/Users/MaximoAlberoFernande/Documents/Unreal Projects/Testing_1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
